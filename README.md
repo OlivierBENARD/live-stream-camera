@@ -1,5 +1,5 @@
 # live-stream-camera
-Collect the stream from the webcam and turn it into 4-bytes images, then chars
+Collect the stream from the webcam and turn it into characters.
 
 Better to launch on a Windows-like environment (PowerShell)
 
